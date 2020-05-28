@@ -5,14 +5,14 @@ pageClass: bg-class
 
 ## 最新章节
 
-- [第五章 黛西 多韦泰尔](chapter-5)
-- [第四章 安静的房子](chapter-4)
-- [第三章 女裁缝之死](chapter-3)
+- [第五章 黛西 多韦泰尔](chapter-5.html)
+- [第四章 安静的房子](chapter-4.html)
+- [第三章 女裁缝之死](chapter-3.html)
 
 ## 全部章节
 
-- [第一章 无畏的弗雷德国王](chapter-1)
-- [第二章 伊卡波格](chapter-2)
-- [第三章 女裁缝之死](chapter-3)
-- [第四章 安静的房子](chapter-4)
-- [第五章 黛西 多韦泰尔](chapter-5)
+- [第一章 无畏的弗雷德国王](chapter-1.html)
+- [第二章 伊卡波格](chapter-2.html)
+- [第三章 女裁缝之死](chapter-3.html)
+- [第四章 安静的房子](chapter-4.html)
+- [第五章 黛西 多韦泰尔](chapter-5.html)
