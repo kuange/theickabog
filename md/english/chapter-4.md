@@ -2,7 +2,7 @@
 pageClass: bg-class
 ---
 
-# The Quiet House 
+# Chapter 4 The Quiet House 
 
 Once upon a time, there was a tiny country called Cornucopia, which had been ruled for centuries by a long line of fair-haired kings. The king at the time of which I write was called King Fred the Fearless. He’d announced the ‘Fearless’ bit himself, on the morning of his coronation, partly because it sounded nice with ‘Fred’, but also because he’d once managed to catch and kill a wasp all by himself, if you didn’t count five footmen and the boot boy.
 King Fred the Fearless came to the throne on a huge wave of popularity. He had lovely yellow curls, fine sweeping moustaches and looked magnificent in the tight breeches, velvet doublets, and ruffled shirts that rich men wore at the time. Fred was said to be generous, smiled and waved whenever anyone caught sight of him and looked awfully handsome in the portraits that were distributed throughout the kingdom, to be hung in town halls. The people of Cornucopia were most happy with their new king, and many thought he’d end up being even better at the job than his father, Richard the Righteous, whose teeth (though nobody had liked to mention it at the time) were rather crooked.

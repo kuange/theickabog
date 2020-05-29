@@ -20,6 +20,7 @@ def run():
 
 
 def detail(session, h3, h2, url):
+    old_h3 = h3
     h3 = h3.replace(" ", "-").lower()
     pwd = os.getcwd()
     print(pwd)
@@ -33,7 +34,7 @@ def detail(session, h3, h2, url):
         detail_content = r.html.find("div.entry-content", first=True).text
 
         detail_content = "---\r\npageClass: bg-class\r\n---\r\n\r\n" + \
-            ("# %s \r\n\r\n" % h2) + detail_content
+            ("# %s %s \r\n\r\n" % (old_h3, h2)) + detail_content
 
         filename = pwd + "/../md/english/" + h3 + ".md"
         print(filename)
@@ -41,6 +42,11 @@ def detail(session, h3, h2, url):
         with open(filename, 'w+') as fw:
             fw.write(detail_content)
         print("done ", h3)
+
+        with open(md_filepath + "/README.md", 'a+') as fw:
+            str = "- [%s - %s](%s.html) \r\n" % (old_h3, h2, h3)
+            fw.write(str)
+        print("done %s a+" % h3)
 
 
 run()
