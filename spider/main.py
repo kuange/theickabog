@@ -29,7 +29,7 @@ def detail(session, h3, h2, url):
     md_fileList = os.listdir(md_filepath)
 
     if h3 + ".md" not in md_fileList:
-        r = session.get('https://www.theickabog.com/king-fred-the-fearless/')
+        r = session.get(url)
         r.encoding = 'utf-8'
         detail_content = r.html.find("div.entry-content", first=True).text
 
