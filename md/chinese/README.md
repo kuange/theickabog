@@ -5,9 +5,9 @@ pageClass: bg-class
 
 ## 最新章节
 
-- [第五章 黛西 多韦泰尔](chapter-5.html)
-- [第四章 安静的房子](chapter-4.html)
-- [第三章 女裁缝之死](chapter-3.html)
+- [第六章 院子里的打斗](chapter-6.html)
+- [第七章 斯皮特沃斯勋爵讲故事](chapter-7.html)
+- [第八章 请愿日](chapter-8.html)
 
 ## 全部章节
 
@@ -16,3 +16,6 @@ pageClass: bg-class
 - [第三章 女裁缝之死](chapter-3.html)
 - [第四章 安静的房子](chapter-4.html)
 - [第五章 黛西 多韦泰尔](chapter-5.html)
+- [第六章 院子里的打斗](chapter-6.html)
+- [第七章 斯皮特沃斯勋爵讲故事](chapter-7.html)
+- [第八章 请愿日](chapter-8.html)
