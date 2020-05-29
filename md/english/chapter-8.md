@@ -2,50 +2,23 @@
 pageClass: bg-class
 ---
 
-# Chapter-8 The Day of Petition
+# The Day of Petition 
 
-> Selfish, vain, and cruel. Selfish, vain, and cruel.
-
-The words echoed in the king’s head as he pulled on his silk nightcap. It couldn’t be true, could it? It took Fred a long time to fall asleep, and when he woke in the morning he felt, if anything, worse.
-
-He decided he wanted to do something kind, and the first thing that occurred to him was to reward Beamish’s son, who’d defended him against that nasty little girl. So he took a small medallion that usually hung around the neck of his favourite hunting dog, asked a maid to thread ribbon through it, and summoned the Beamishes to the palace. Bert, whom his mother had pulled out of class and hurriedly dressed in a blue velvet suit, was struck speechless in the presence of the king, which Fred enjoyed, and he spent several minutes speaking kindly to the boy, while Major and Mrs Beamish nearly burst with pride in their son. Finally, Bert returned to school, with his little gold medal around his neck, and was made much of in the playground that afternoon by Roderick Roach, who was usually his biggest bully. Daisy said nothing at all and when Bert caught her eye, he felt hot and uncomfortable, and shoved the medal out of sight beneath his shirt.
-
-The king, meanwhile, still wasn’t entirely happy. An uneasy feeling stayed with him, like indigestion, and again, he found it hard to sleep that night.
-
-When he woke the next day, he remembered that it was the Day of Petition.
-
-The Day of Petition was a special day held once a year, when the subjects of Cornucopia were permitted an audience with the king. Naturally, these people were carefully screened by Fred’s advisors before they were allowed to see him. Fred never dealt with big problems. He saw people whose troubles could be solved with a few gold coins and a few kind words: a farmer with a broken plough, for instance, or an old lady whose cat had died. Fred had been looking forward to the Day of Petition. It was a chance to dress up in his fanciest clothes, and he found it so touching to see how much he meant to the ordinary people of Cornucopia.
-
-Fred’s dressers were waiting for him after breakfast, with a new outfit he’d requested just the previous month: white satin pantaloons and matching doublet, with gold and pearl buttons; a cloak edged with ermine and lined in scarlet; and white satin shoes with gold and pearl buckles. His valet was waiting with the golden tongs, ready to curl his moustaches, and a pageboy stood ready with a number of jewelled rings on a velvet cushion, waiting for Fred to make his selection.
-
-‘Take all that away, I don’t want it,’ said King Fred crossly, waving at the outfit the dressers were holding up for his approval. The dressers froze. They weren’t sure they’d heard correctly. King Fred had taken an immense interest in the progress of the costume, and had requested the addition of the scarlet lining and fancy buckles himself. ‘I said, take it away!’ he snapped, when nobody moved. ‘Fetch me something plain! Fetch me that suit I wore to my father’s funeral!’
-
-‘Is… is Your Majesty quite well?’ enquired his valet, as the astonished dressers bowed and hurried away with the white suit, and returned in double-quick time with a black one.
-
-‘Of course I’m well,’ snapped Fred. ‘But I’m a man, not a frivolling popinjay.’
-
-He shrugged on the black suit, which was the plainest he owned, though still rather splendid, having silver edging to the cuffs and collar, and onyx and diamond buttons. Then, to the astonishment of the valet, he permitted the man to curl only the very ends of his moustaches, before dismissing both him and the pageboy bearing the cushion full of rings.
-
-There, thought Fred, examining himself in the mirror. How can I be called vain? Black definitely isn’t one of my best colours.
-
-So unusually speedy had Fred been in getting dressed, that Lord Spittleworth, who was making one of Fred’s servants dig earwax out of his ears, and Lord Flapoon, who was guzzling a plate of Dukes’ Delights which he’d ordered from the kitchens, were caught by surprise, and came running out of their bedrooms, pulling on their waistcoats and hopping as they put on their boots.
-
-‘Hurry up, you lazy chaps!’ called King Fred, as the two lords chased him down the corridor. ‘There are people waiting for my help!’
-
-And would a selfish king hurry to meet simple people who wanted favours from him? thought Fred. No, he wouldn’t!
-
-Fred’s advisors were shocked to see him on time, and plainly dressed, for Fred. Indeed, Herringbone, the Chief Advisor, wore an approving smile as he bowed.
-
-‘Your Majesty is early,’ he said. ‘The people will be delighted. They’ve been queuing since dawn.’
-
-‘Show them in, Herringbone,’ said the king, settling himself on his throne, and gesturing to Spittleworth and Flapoon to take the seats on either side of him.
-
-The doors were opened, and one by one, the petitioners entered.
-
-Fred’s subjects often became tongue-tied when they found themselves face-to-face with the real, live king, whose picture hung in their town halls. Some began to giggle, or forgot what they’d come for, and once or twice people fainted. Fred was particularly gracious today, and each petition ended with the king handing out a couple of gold coins, or blessing a baby, or allowing an old woman to kiss his hand.
-
-Today, though, while he smiled and handed out gold coins and promises, the words of Daisy Dovetail kept echoing in his head. Selfish, vain, and cruel. He wanted to do something special to prove what a wonderful man he was – to show that he was ready to sacrifice himself for others. Every king of Cornucopia had handed out gold coins and trifling favours on the Day of Petition: Fred wanted to do something so splendid that it would ring down the ages, and you didn’t get into the history books by replacing a fruit farmer’s favourite hat.
-
-The two lords on either side of Fred were becoming bored. They’d much rather have been left to loll in their bedrooms until lunchtime than sit here listening to peasants talking about their petty troubles. After several hours, the last petitioner passed gratefully out of the Throne Room, and Flapoon, whose stomach had been rumbling for nearly an hour, heaved himself out of his chair with a sigh of relief.
-
-‘Lunchtime!’ boomed Flapoon, but just as the guards were attempting to close the doors, a kerfuffle was heard, and the doors flew open once more.
+Once upon a time, there was a tiny country called Cornucopia, which had been ruled for centuries by a long line of fair-haired kings. The king at the time of which I write was called King Fred the Fearless. He’d announced the ‘Fearless’ bit himself, on the morning of his coronation, partly because it sounded nice with ‘Fred’, but also because he’d once managed to catch and kill a wasp all by himself, if you didn’t count five footmen and the boot boy.
+King Fred the Fearless came to the throne on a huge wave of popularity. He had lovely yellow curls, fine sweeping moustaches and looked magnificent in the tight breeches, velvet doublets, and ruffled shirts that rich men wore at the time. Fred was said to be generous, smiled and waved whenever anyone caught sight of him and looked awfully handsome in the portraits that were distributed throughout the kingdom, to be hung in town halls. The people of Cornucopia were most happy with their new king, and many thought he’d end up being even better at the job than his father, Richard the Righteous, whose teeth (though nobody had liked to mention it at the time) were rather crooked.
+King Fred was secretly relieved to find out how easy it was to rule Cornucopia. In fact, the country seemed to run itself. Nearly everybody had lots of food, the merchants made pots of gold, and Fred’s advisors took care of any little problem that arose. All that was left for Fred to do was beam at his subjects whenever he went out in his carriage and go hunting five times a week with his two best friends, Lord Spittleworth and Lord Flapoon.
+Spittleworth and Flapoon had large estates of their own in the country, but they found it much cheaper and more amusing to live at the palace with the king, eating his food, hunting his stags, and making sure that the king didn’t get too fond of any of the beautiful ladies at court. They had no wish to see Fred married, because a queen might spoil all their fun. For a time, Fred had seemed to rather like Lady Eslanda, who was as dark and beautiful as Fred was fair and handsome, but Spittleworth had persuaded Fred that she was far too serious and bookish for the country to love her as queen. Fred didn’t know that Lord Spittleworth had a grudge against Lady Eslanda. He’d once asked her to marry him, but she’d turned him down.
+Lord Spittleworth was very thin, cunning, and clever. His friend Flapoon was ruddy-faced, and so enormous that it required six men to heave him onto his massive chestnut horse. Though not as clever as Spittleworth, Flapoon was still far sharper than the king.
+Both lords were expert at flattery, and pretending to be astonished by how good Fred was at everything from riding to tiddlywinks. If Spittleworth had a particular talent, it was persuading the king to do things that suited Spittleworth, and if Flapoon had a gift, it was for convincing the king that nobody on earth was as loyal to the king as his two best friends.
+Fred thought Spittleworth and Flapoon were jolly good chaps. They urged him to hold fancy parties, elaborate picnics, and sumptuous banquets, because Cornucopia was famous, far beyond its borders, for its food. Each of its cities was known for a different kind, and each was the very best in the world.
+The capital of Cornucopia, Chouxville, lay in the south of the country, and was surrounded by acres of orchards, fields of shimmering golden wheat, and emerald-green grass, on which pure white dairy cows grazed. The cream, flour, and fruit produced by the farmers here was then given to the exceptional bakers of Chouxville, who made pastries.
+Think, if you please, of the most delicious cake or biscuit you have ever tasted. Well, let me tell you they’d have been downright ashamed to serve that in Chouxville. Unless a grown man’s eyes filled with tears of pleasure as he bit into a Chouxville pastry, it was deemed a failure and never made again. The bakery windows of Chouxville were piled high with delicacies such as Maidens’ Dreams, Fairies’ Cradles, and, most famous of all, Hopes-of-Heaven, which were so exquisitely, painfully delicious that they were saved for special occasions and everybody cried for joy as they ate them. King Porfirio, of neighbouring Pluritania, had already sent King Fred a letter, offering him the choice of any of his daughters’ hands in marriage in exchange for a lifetime’s supply of Hopes-of-Heaven, but Spittleworth had advised Fred to laugh in the Pluritanian ambassador’s face.
+‘His daughters are nowhere near pretty enough to exchange for Hopes-of-Heaven, sire!’ said Spittleworth.
+To the north of Chouxville lay more green fields and clear, sparkling rivers, where jet-black cows and happy pink pigs were raised. These in turn served the twin cities of Kurdsburg and Baronstown, which were separated from each other by an arching stone bridge over the main river of Cornucopia, the Fluma, where brightly coloured barges bore goods from one end of the kingdom to another.
+Kurdsburg was famous for its cheeses: huge white wheels, dense orange cannonballs, big crumbly blue-veined barrels and little baby cream cheeses smoother than velvet.
+Baronstown was celebrated for its smoked and honey-roasted hams, its sides of bacon, its spicy sausages, its melting beefsteaks, and its venison pies.
+The savoury fumes rising from the chimneys of the red-brick Baronstown stoves mingled with the odorous tang wafting from the doorways of the Kurdsburg cheesemongers, and for forty miles all around, it was impossible not to salivate breathing in the delicious air.
+A few hours north of Kurdsburg and Baronstown, you came upon acres of vineyards bearing grapes as large as eggs, each of them ripe and sweet and juicy. Journey onwards for the rest of the day and you reached the granite city of Jeroboam, famous for its wines. They said of the Jeroboam air that you could get tipsy simply walking its streets. The best vintages changed hands for thousands upon thousands of gold coins, and the Jeroboam wine merchants were some of the richest men in the kingdom.
+But a little north of Jeroboam, a strange thing happened. It was as though the magically rich land of Cornucopia had exhausted itself by producing the best grass, the best fruit, and the best wheat in the world. Right at the northern tip came the place known as the Marshlands, and the only things that grew there were some tasteless, rubbery mushrooms and thin dry grass, only good enough to feed a few mangy sheep.
+The Marshlanders who tended the sheep didn’t have the sleek, well-rounded, well-dressed appearance of the citizens of Jeroboam, Baronstown, Kurdsburg, or Chouxville. They were gaunt and ragged. Their poorly nourished sheep never fetched very good prices, either in Cornucopia or abroad, so very few Marshlanders ever got to taste the delights of Cornucopian wine, cheese, beef, or pastries. The most common dish in the Marshlands was a greasy mutton broth, made of those sheep who were too old to sell.
+The rest of Cornucopia found the Marshlanders an odd bunch – surly, dirty, and ill-tempered. They had rough voices, which the other Cornucopians imitated, making them sound like hoarse old sheep. Jokes were made about their manners and their simplicity. As far as the rest of Cornucopia was concerned, the only memorable thing that had ever come out of the Marshlands was the legend of the Ickabog.

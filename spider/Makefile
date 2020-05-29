@@ -9,3 +9,8 @@ build:
 	rm -rf $(PWD)/build
 	rm -rf $(PWD)/dist
 	rm -rf $(PWD)/*.spec
+
+push:
+	git add ../
+	git commit -am 'update'
+	git push
