@@ -10,3 +10,5 @@ pageClass: bg-class
 - [Chapter 6 - The Fight in the Courtyard](chapter-6.html) 
 - [Chapter 7 - Lord Spittleworth Tells Tales](chapter-7.html) 
 - [Chapter 8 - The Day of Petition](chapter-8.html) 
+- [Chapter 9 - The Shepherd’s Story](chapter-9.html) 
+- [Chapter 10 - King Fred’s Quest](chapter-10.html) 
