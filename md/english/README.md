@@ -12,3 +12,4 @@ pageClass: bg-class
 - [Chapter 8 - The Day of Petition](chapter-8.html) 
 - [Chapter 9 - The Shepherd’s Story](chapter-9.html) 
 - [Chapter 10 - King Fred’s Quest](chapter-10.html) 
+- [Chapter 11 - The Journey North](chapter-11.html) 
