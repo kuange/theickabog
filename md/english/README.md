@@ -13,3 +13,5 @@ pageClass: bg-class
 - [Chapter 9 - The Shepherd’s Story](chapter-9.html) 
 - [Chapter 10 - King Fred’s Quest](chapter-10.html) 
 - [Chapter 11 - The Journey North](chapter-11.html) 
+- [Chapter 12 - The King’s Lost Sword](chapter-12.html) 
+- [Chapter 13 - The Accident](chapter-13.html) 
